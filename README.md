@@ -1,7 +1,7 @@
 
 # TO-DO-List Web App
 
-This is a simple TODO-List web application built with [React](https://reactjs.org/) and [Vite][https://vitejs.dev/guide/] that allows users to add, manage, and track their tasks.
+This is a TODO-List web application built with [React](https://reactjs.org/) and [Vite][https://vitejs.dev/guide/] that allows users to add, manage, and track their tasks.
 
 
 ## Features
