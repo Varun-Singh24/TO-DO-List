@@ -6,7 +6,6 @@ import Todoitems from './Todoitems';
 
 let count = 0;
 const Todo = () => {
-
   const [todos, setTodos] = useState([])
   const inputRef = useRef(null);
   const add = () => {
