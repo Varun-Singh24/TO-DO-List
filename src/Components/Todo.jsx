@@ -24,7 +24,7 @@ const Todo = () => {
     setTimeout(() => {
       console.log(todos);
       localStorage.setItem("todos", JSON.stringify(todos));
-    }, 10000000 );    // Here using 100mseconds 
+    }, 1 );    // Here using 1 milli Seconds 
   }, [todos])
 
   return (
